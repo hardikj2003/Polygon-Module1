@@ -29,9 +29,13 @@ Run the following command to batch-mint NFTs using the deployed ERC721 contract:
 Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge:
 
 `npx hardhat run scripts/approveDeposit.js --network goerli`
+##Video Walkthrough
+
+https://www.loom.com/share/563a1bb752504c63a840896bf21aeeb6?sid=ba9b7dee-f34e-45a4-8b96-da07a8509a98
+
 
 ## Author
-PALAK JAIN :)
+Hardik Jain
 
 ## LICENSE
 This project is licensed under the [MIT License](LICENSE).
